@@ -1,7 +1,7 @@
 # EHAPZero
 [![Pytorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?e&logo=PyTorch&logoColor=white)](https://pytorch.org/) 
 
- - [*EHAPZero: Ensemble Hierarchical Attribute Prompting-Based Zero-Shot Learning for Pest Recognition*]([[https://arxiv.org/abs/2303.15322](https://ieeexplore.ieee.org/abstract/document/10702529/)](https://ieeexplore.ieee.org/abstract/document/10702529/)
+ - [*EHAPZero: Ensemble Hierarchical Attribute Prompting-Based Zero-Shot Learning for Pest Recognition*](https://ieeexplore.ieee.org/abstract/document/10702529/)](https://ieeexplore.ieee.org/abstract/document/10702529/)
     This repository contains the reference code for the paper "**EHAPZero: Ensemble Hierarchical Attribute Prompting-Based Zero-Shot Learning for Pest Recognition**".
     
     
